@@ -75,6 +75,13 @@ view(10,10);
 - The fields are in phase and maintain constant amplitude, demonstrating transverse propagation.
 - Helps understand polarization and wave impedance visually.
 
+- MATLAB DASHBOARD WTH CODE+OUTPUT
+  
+![Matlab Output](https://github.com/user-attachments/assets/0054de0e-63ae-47f7-af05-53f4dcc25aff)
+
+- MATLAB OUTPUT ( EM WAVES VISUALIZATION IN FREE SPACE )
+  
+![EM_Free_Space](https://github.com/user-attachments/assets/626cc1f6-afc8-442c-84e6-4ef29f658426)
 
 
 ## 📌 Applications
